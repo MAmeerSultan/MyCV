@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.profile-pic{
+    height: 150px;
+    border-radius: 100%;
+    margin-right: 20px;
+}
+.name, .description{
+    text-align: left;
+    width: 50%;
+}
+.pad{
+    padding: 2%;
+}
+.description{
+    line-height: 1.8rem;
+    margin: 1rem 0rem;
+}
+
+ul{
+    padding: 1rem;
+}
+li{
+    margin: 10px 0px;
+    list-style: none;
+}
+table{
+    margin: 10px;
+}
+table tr td{
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+}
+table tr th{
+    padding-bottom: 10px;
+}
+.langtab{
+    padding: 10px 0px 10px 30px;
+}
+.langtab tr td{
+    padding:0px 30px;
+}
+.interest-list{
+    margin:  18px;
+}
+p{
+    padding: 3px 0px;
+}
